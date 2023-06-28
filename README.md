@@ -10,5 +10,6 @@ This will create the console.log file that can be parsed. The log will be locate
 "C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\console.log"
 
 Using the console in-game type 'status', this will send all player IDs into the log for the script to parse.
+Run the script in CMD, the script will sleep every 30 seconds and await the entry of the status command.
 
 If any suspected cheaters are found the result will be printed in the command line.
